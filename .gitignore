@@ -1,0 +1,66 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Node.js
+node_modules/
+*.env
+.env.*.local
+
+# npm
+package-lock.json
+yarn.lock
+
+# Production
+build/
+dist/
+
+# Coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# VS Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+
+# OS generated files
+Thumbs.db
+*.swp
+
+# NPM Debug Files
+npm-debug.log*
+
+# Generated files
+*.map
+*.log
+*.tgz
+
+# NPM Package Metadata
+.npm/
+.npmignore
+
+# Sensitive files
+*.env
+
+# Ignore uploads and custom files
+uploads/
+
